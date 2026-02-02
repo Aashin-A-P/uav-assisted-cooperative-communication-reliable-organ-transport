@@ -1,0 +1,17 @@
+Row,MIOT Hospitals,Government Royapettah Hospital,Rajiv Gandhi Govt General Hospital,Sri Ramachandra Medical Centre,Frontline Hospital & Research Institute,Velammal Medical College Hospital,Dr Kamakshi Memorial Hospitals,Gleneagles Health City,Chettinad Hospital & Research Institute,Sree Balaji Medical College & Hospital,SRM Medical College (Kattankulathur),Hindu Mission Hospital,Saveetha Medical College & Hospital,Tagore Medical College & Hospital,Karpagam Hospital,A1-Airport
+MIOT Hospitals,0,3,2,6,4,4,10,7,8,4,10,10,4,10,4,4
+Government Royapettah Hospital,3,0,5,1,3,5,1,7,8,1,12,10,4,7,5,1
+Rajiv Gandhi Govt General Hospital,2,5,0,2,2,5,2,2,2,2,2,10,4,2,5,1
+Sri Ramachandra Medical Centre,6,1,2,0,1,1,1,7,8,1,12,10,6,10,6,1
+Frontline Hospital & Research Institute,4,3,2,1,0,4,1,7,8,1,12,10,6,1,6,1
+Velammal Medical College Hospital,4,5,5,1,4,0,4,4,4,4,12,10,4,10,13,4
+Dr Kamakshi Memorial Hospitals,10,1,2,1,1,4,0,10,8,12,14,10,10,8,4,1
+Gleneagles Health City,7,7,2,7,7,4,10,0,14,7,14,10,10,12,10,7
+Chettinad Hospital & Research Institute,8,8,2,8,8,4,8,14,0,8,14,14,12,8,12,8
+Sree Balaji Medical College & Hospital,4,1,2,1,1,4,12,7,8,0,12,14,12,12,13,1
+SRM Medical College (Kattankulathur),10,12,2,12,12,12,14,14,14,12,0,14,12,12,13,10
+Hindu Mission Hospital,10,10,10,10,10,10,10,10,14,14,14,0,10,10,13,10
+Saveetha Medical College & Hospital,4,4,4,6,6,4,10,10,12,12,12,10,0,12,6,4
+Tagore Medical College & Hospital,10,7,2,10,1,10,8,12,8,12,12,10,12,0,13,10
+Karpagam Hospital,4,5,5,6,6,13,4,10,12,13,13,13,6,13,0,4
+A1-Airport,4,1,1,1,1,4,1,7,8,1,10,10,4,10,4,0
